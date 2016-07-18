@@ -1,8 +1,5 @@
 # hello-world
 
-Hi Humans!
+Check out Cybersecurity at UNO!
 
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and I find them far superior to Earth tacos.
-
-So much fun!
+http://www.unomaha.edu/college-of-information-science-and-technology/school-of-interdisciplinary-informatics/information-assurance/bs-iasc.php
